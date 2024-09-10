@@ -1,0 +1,32 @@
+<library>
+    <book>
+        <title>Introduction to Python</title>
+        <author>John Doe</author>
+        <year>2020</year>
+    </book>
+    <book>
+        <title>Advanced Python</title>
+        <author>Jane Smith</author>
+        <year>2019</year>
+    </book>
+    <book>
+        <title>Introduction to Swift</title>
+        <author>Chris Isaac</author>
+        <year>2021</year>
+    </book>
+    <book>
+        <title>Advanced Swift</title>
+        <author>Ellie</author>
+        <year>2020</year>
+    </book>
+    <book>
+        <title>Introduction to C#</title>
+        <author>Joel Miller</author>
+        <year>2013</year>
+    </book>
+    <book>
+        <title>Advanced C#</title>
+        <author>Abby Smith</author>
+        <year>2022</year>
+    </book>
+</library>
